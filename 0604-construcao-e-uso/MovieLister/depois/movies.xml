@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<movies>
+    <movie>
+        <name>Saving Private Ryan</name>
+        <director>Steven Spielberg</director>
+    </movie>
+    <movie>
+        <name>Jurassic Park</name>
+        <director>Steven Spielberg</director>
+    </movie>
+    <movie>
+        <name>Indiana Jones</name>
+        <director>Steven Spielberg</director>
+    </movie>
+    <movie>
+        <name>Rocky</name>
+        <director>John Guilbert Avildsen</director>
+    </movie>
+    <movie>
+        <name>Hacksaw Ridge</name>
+        <director>Mel Gibson</director>
+    </movie>
+    <movie>
+        <name>Forrest Gump</name>
+        <director>Robert Zemeckis</director>
+    </movie>
+    <movie>
+        <name>The Expendables</name>
+        <director>Sylvester Stallone</director>
+    </movie>
+</movies>
